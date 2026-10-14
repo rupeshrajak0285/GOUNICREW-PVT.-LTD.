@@ -288,12 +288,12 @@ How each failure is handled in the UI:
 
 Clone the repository:
 ```bash
-git clone https://github.com/rupeshrajak0285/GOUNICREW-PVT.-LTD..git
+git clone https://github.com/rupeshrajak0285/GOUNICREW-Product-Listing-App.git
 ```
 
 Go into the project folder:
 ```bash
-cd GOUNICREW-PVT.-LTD.
+cd GOUNICREW-Product-Listing-App
 ```
 
 Install packages:
